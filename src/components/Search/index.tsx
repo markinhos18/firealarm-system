@@ -34,8 +34,8 @@ const Search = () => {
   const [isLoading, setIsLoading] = useState<any>(false)
   const [isError, setIsError] = useState<any>(false)
 
-  // const URL = `http://localhost:3001/products`
-  const URL = `https://m2nknp-3000.preview.csb.app/products`
+  // const URL = `https://m2nknp-3000.preview.csb.app/products`
+  const URL = `https://po55kc-8080.csb.app/products`
 
   // console.log(URL)
 
