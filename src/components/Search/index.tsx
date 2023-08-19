@@ -34,8 +34,7 @@ const Search = () => {
   const [isLoading, setIsLoading] = useState<any>(false)
   const [isError, setIsError] = useState<any>(false)
 
-  // const URL = `https://m2nknp-3000.preview.csb.app/products`;
-  const URL = `https://po55kc-8080.csb.app/products`
+  const URL = `https://apifake-7l2p.onrender.com/products`
 
   // console.log(URL)
 
